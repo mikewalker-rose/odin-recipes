@@ -1,0 +1,29 @@
+body {
+  background-color: peachpuff;
+}
+
+.title {
+  box-sizing: border-box;
+  color: black;
+  font-family: Tahoma;
+  margin: auto;
+  padding: 8px;
+  text-align: center;
+  text-decoration: underline;
+  width: max-content;
+}
+
+#recipe-list {
+  width: max-content;
+}
+
+.list-item {
+  box-sizing: border-box;
+  font-family: Tahoma;
+  font-style: italic;
+  margin-bottom: 2px;
+  padding: 4px;
+  text-align: left;
+  text-decoration: underline;
+  width: max-content;
+}
